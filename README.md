@@ -1,5 +1,7 @@
 ## R drive time analysis tutorial
 
+[Read the tutorial](http://www.hrecht.com/r-drive-time-analysis-tutorial/tutorial.html)
+
 This tutorial was created for a presentation in May 2021. 
 
 It is adapted from [code](https://github.com/khnews/2021-delta-appalachia-stroke-access) used in the analysis for [In Appalachia and the Mississippi Delta, Millions Face Long Drives to Stroke Care](https://khn.org/news/article/appalachia-mississippi-delta-stroke-treatment-advanced-care-rural-access/). The story was a collaboration between KHN and InvestigateTV and published in May, 2021.

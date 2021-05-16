@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
   echo = TRUE,
   fig.dim = c(8, 6),
   dev = "png",
-  fig.path = "/Users/hannahrecht/Documents/r-drive-time-analysis-tutorial/tutorial/img/"
+  fig.path = "/Users/hannahrecht/Documents/r-drive-time-analysis-tutorial/docs/img/"
 )
 
 ```
